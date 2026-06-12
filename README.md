@@ -1,8 +1,43 @@
-# 🤖 Agentic AI Career Coach
+# 🚀 Agentic AI Career Coach
 
-An end-to-end Multi-Agent AI application that helps students and job seekers find relevant jobs, evaluate resume-job fit, identify skill gaps, generate application materials, and practice interviews.
+An end-to-end multi-agent AI platform that helps job seekers discover relevant jobs, analyze ATS compatibility, identify skill gaps, generate personalized learning recommendations, and prepare for interviews.
+
+🌐 Live Demo: https://agentic-ai-career-coach-zx483ry53aye9bdz9l4u5t.streamlit.app/
+
+📂 GitHub Repository: https://github.com/Abishek-545/agentic-ai-career-coach
+
+---
 
 ## Features
+
+✅ Resume Analysis Agent  
+✅ Job Search Agent (Live Job Search)  
+✅ Job Relevance Scoring Agent  
+✅ ATS Match Analysis  
+✅ Skill Gap Detection  
+✅ Project Recommendation Agent  
+✅ Resume Improvement Suggestions  
+✅ Placement Probability Estimation  
+✅ AI Mock Interview Generator  
+✅ Multi-Agent Workflow Architecture
+
+---
+
+## Tech Stack
+
+- Python
+- Streamlit
+- Google Gemini API
+- Adzuna Jobs API
+- Pandas
+- PyPDF
+- Agent-based AI Architecture
+
+---
+
+## Live Demo
+
+🔗 https://agentic-ai-career-coach-zx483ry53aye9bdz9l4u5t.streamlit.app/
 
 ### Resume Analyzer Agent
 
